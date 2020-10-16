@@ -7,7 +7,8 @@ This is an approach to a simple object classification/localization problem, cons
 The data used are provided by Muhammed Buyukkinaci (https://github.com/MuhammedBuyukkinaci/Object-Classification-and-Localization-with-TensorFlow)
 
 
-
+## Restrictions
+Because for the purpose of this project Google Colab was used, it is quite limiting to the GPU and RAM provided, thus it is not possible to try and experiment more complicated architectures.
 
 
 
