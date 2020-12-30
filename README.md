@@ -1,5 +1,5 @@
 # Object-Classification/Localization
-A simple object classification/localization project
+A simple object classification/localization project in Keras
 
 This is an approach to a simple object classification/localization problem, consisting of three classes of objects: Cucumbers, Eggplants and Mushrooms.
 
